@@ -1,0 +1,1650 @@
+{
+  "exams": {
+    "CS101": {
+      "id": "CS101",
+      "name": "Data Structures & Algorithms",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC08",
+      "enrolled_student_ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018",
+        "S019",
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028",
+        "S029",
+        "S030",
+        "S031",
+        "S032",
+        "S033",
+        "S034",
+        "S035",
+        "S036",
+        "S037",
+        "S038",
+        "S039",
+        "S040",
+        "S041",
+        "S042",
+        "S043",
+        "S044",
+        "S045",
+        "S046",
+        "S047",
+        "S048",
+        "S049",
+        "S050",
+        "S051",
+        "S052",
+        "S053",
+        "S054"
+      ],
+      "student_count_override": null,
+      "department": "Computer Science"
+    },
+    "CS102": {
+      "id": "CS102",
+      "name": "Database Management Systems",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC04",
+      "enrolled_student_ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018",
+        "S019",
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028",
+        "S029",
+        "S030",
+        "S031",
+        "S032",
+        "S033",
+        "S034",
+        "S035",
+        "S036",
+        "S037",
+        "S038",
+        "S039",
+        "S040",
+        "S041",
+        "S042",
+        "S043",
+        "S044",
+        "S045",
+        "S046",
+        "S047",
+        "S048",
+        "S049",
+        "S050",
+        "S051",
+        "S052",
+        "S053",
+        "S054",
+        "S055",
+        "S056",
+        "S057",
+        "S058",
+        "S059",
+        "S060",
+        "S061",
+        "S062",
+        "S063",
+        "S064",
+        "S065",
+        "S066",
+        "S067",
+        "S068",
+        "S069",
+        "S070",
+        "S071",
+        "S072",
+        "S073",
+        "S074",
+        "S075"
+      ],
+      "student_count_override": null,
+      "department": "Computer Science"
+    },
+    "CS103": {
+      "id": "CS103",
+      "name": "Computer Networks",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC05",
+      "enrolled_student_ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018",
+        "S019",
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028",
+        "S055",
+        "S056",
+        "S057",
+        "S058",
+        "S059",
+        "S060",
+        "S061",
+        "S062",
+        "S063",
+        "S064",
+        "S065",
+        "S066",
+        "S067",
+        "S068",
+        "S069",
+        "S070",
+        "S071",
+        "S072",
+        "S073",
+        "S074",
+        "S075"
+      ],
+      "student_count_override": null,
+      "department": "Computer Science"
+    },
+    "CS104": {
+      "id": "CS104",
+      "name": "Artificial Intelligence",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC07",
+      "enrolled_student_ids": [
+        "S029",
+        "S030",
+        "S031",
+        "S032",
+        "S033",
+        "S034",
+        "S035",
+        "S036",
+        "S037",
+        "S038",
+        "S039",
+        "S040",
+        "S041",
+        "S042",
+        "S043",
+        "S044",
+        "S045",
+        "S046",
+        "S047",
+        "S048",
+        "S049",
+        "S050",
+        "S051",
+        "S052",
+        "S053",
+        "S054"
+      ],
+      "student_count_override": null,
+      "department": "AI & DS"
+    },
+    "CS105": {
+      "id": "CS105",
+      "name": "Operating Systems",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC03",
+      "enrolled_student_ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018",
+        "S019",
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028"
+      ],
+      "student_count_override": null,
+      "department": "Systems"
+    },
+    "CS106": {
+      "id": "CS106",
+      "name": "Software Engineering",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC04",
+      "enrolled_student_ids": [
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028",
+        "S029",
+        "S030",
+        "S031",
+        "S032",
+        "S033",
+        "S034",
+        "S035",
+        "S055",
+        "S056",
+        "S057",
+        "S058",
+        "S059",
+        "S060",
+        "S061",
+        "S062",
+        "S063",
+        "S064",
+        "S065",
+        "S066",
+        "S067",
+        "S068",
+        "S069",
+        "S070",
+        "S071",
+        "S072",
+        "S073",
+        "S074",
+        "S075"
+      ],
+      "student_count_override": null,
+      "department": "Software Engineering"
+    },
+    "CS107": {
+      "id": "CS107",
+      "name": "Theory of Computation",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC01",
+      "enrolled_student_ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010"
+      ],
+      "student_count_override": null,
+      "department": "Computer Science"
+    },
+    "CS108": {
+      "id": "CS108",
+      "name": "Machine Learning",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC07",
+      "enrolled_student_ids": [
+        "S029",
+        "S030",
+        "S031",
+        "S032",
+        "S033",
+        "S034",
+        "S035",
+        "S036",
+        "S037",
+        "S038",
+        "S039",
+        "S040",
+        "S041",
+        "S042",
+        "S043",
+        "S044",
+        "S045",
+        "S046",
+        "S047",
+        "S048",
+        "S049",
+        "S050",
+        "S051",
+        "S052",
+        "S053",
+        "S054",
+        "S055",
+        "S056",
+        "S057",
+        "S058",
+        "S059",
+        "S060",
+        "S061",
+        "S062",
+        "S063",
+        "S064",
+        "S065"
+      ],
+      "student_count_override": null,
+      "department": "AI & DS"
+    },
+    "CS109": {
+      "id": "CS109",
+      "name": "Cloud Computing",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC03",
+      "enrolled_student_ids": [
+        "S029",
+        "S030",
+        "S031",
+        "S032",
+        "S033",
+        "S034",
+        "S035",
+        "S036",
+        "S037",
+        "S038",
+        "S039",
+        "S040",
+        "S041",
+        "S042",
+        "S043",
+        "S044",
+        "S045",
+        "S046",
+        "S047",
+        "S048",
+        "S049",
+        "S050",
+        "S051",
+        "S052",
+        "S053",
+        "S054"
+      ],
+      "student_count_override": null,
+      "department": "Systems"
+    },
+    "CS110": {
+      "id": "CS110",
+      "name": "Cyber Security",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC05",
+      "enrolled_student_ids": [
+        "S055",
+        "S056",
+        "S057",
+        "S058",
+        "S059",
+        "S060",
+        "S061",
+        "S062",
+        "S063",
+        "S064",
+        "S065",
+        "S066",
+        "S067",
+        "S068",
+        "S069",
+        "S070",
+        "S071",
+        "S072",
+        "S073",
+        "S074",
+        "S075"
+      ],
+      "student_count_override": null,
+      "department": "Information Security"
+    },
+    "CS111": {
+      "id": "CS111",
+      "name": "Computer Architecture",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC01",
+      "enrolled_student_ids": [
+        "S001",
+        "S002",
+        "S003",
+        "S004",
+        "S005",
+        "S006",
+        "S007",
+        "S008",
+        "S009",
+        "S010",
+        "S011",
+        "S012",
+        "S013",
+        "S014",
+        "S015",
+        "S016",
+        "S017",
+        "S018",
+        "S019",
+        "S020",
+        "S021",
+        "S022",
+        "S023",
+        "S024",
+        "S025",
+        "S026",
+        "S027",
+        "S028"
+      ],
+      "student_count_override": null,
+      "department": "Hardware & Systems"
+    },
+    "CS112": {
+      "id": "CS112",
+      "name": "Web Technologies",
+      "duration_hours": 3.0,
+      "assigned_faculty_id": "FAC06",
+      "enrolled_student_ids": [
+        "S055",
+        "S056",
+        "S057",
+        "S058",
+        "S059",
+        "S060",
+        "S061",
+        "S062",
+        "S063",
+        "S064",
+        "S065",
+        "S066",
+        "S067",
+        "S068",
+        "S069",
+        "S070",
+        "S071",
+        "S072",
+        "S073",
+        "S074",
+        "S075"
+      ],
+      "student_count_override": null,
+      "department": "Web & Software"
+    }
+  },
+  "rooms": {
+    "R101": {
+      "id": "R101",
+      "name": "Hall Alpha",
+      "capacity": 60,
+      "building": "Block A"
+    },
+    "R102": {
+      "id": "R102",
+      "name": "Hall Beta",
+      "capacity": 60,
+      "building": "Block A"
+    },
+    "R201": {
+      "id": "R201",
+      "name": "Lecture Theatre 1",
+      "capacity": 80,
+      "building": "Block B"
+    },
+    "R202": {
+      "id": "R202",
+      "name": "Lecture Theatre 2",
+      "capacity": 45,
+      "building": "Block B"
+    },
+    "R301": {
+      "id": "R301",
+      "name": "Seminar Room C",
+      "capacity": 35,
+      "building": "Block C"
+    },
+    "AUD01": {
+      "id": "AUD01",
+      "name": "Main Auditorium",
+      "capacity": 120,
+      "building": "Central Complex"
+    }
+  },
+  "time_slots": [
+    {
+      "id": "2026-12-01_Morning",
+      "date_str": "2026-12-01",
+      "session": "Morning",
+      "start_time": "09:30",
+      "end_time": "12:30",
+      "duration_hours": 3.0
+    },
+    {
+      "id": "2026-12-01_Afternoon",
+      "date_str": "2026-12-01",
+      "session": "Afternoon",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "duration_hours": 3.0
+    },
+    {
+      "id": "2026-12-02_Morning",
+      "date_str": "2026-12-02",
+      "session": "Morning",
+      "start_time": "09:30",
+      "end_time": "12:30",
+      "duration_hours": 3.0
+    },
+    {
+      "id": "2026-12-02_Afternoon",
+      "date_str": "2026-12-02",
+      "session": "Afternoon",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "duration_hours": 3.0
+    },
+    {
+      "id": "2026-12-03_Morning",
+      "date_str": "2026-12-03",
+      "session": "Morning",
+      "start_time": "09:30",
+      "end_time": "12:30",
+      "duration_hours": 3.0
+    },
+    {
+      "id": "2026-12-03_Afternoon",
+      "date_str": "2026-12-03",
+      "session": "Afternoon",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "duration_hours": 3.0
+    },
+    {
+      "id": "2026-12-04_Morning",
+      "date_str": "2026-12-04",
+      "session": "Morning",
+      "start_time": "09:30",
+      "end_time": "12:30",
+      "duration_hours": 3.0
+    },
+    {
+      "id": "2026-12-04_Afternoon",
+      "date_str": "2026-12-04",
+      "session": "Afternoon",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "duration_hours": 3.0
+    },
+    {
+      "id": "2026-12-05_Morning",
+      "date_str": "2026-12-05",
+      "session": "Morning",
+      "start_time": "09:30",
+      "end_time": "12:30",
+      "duration_hours": 3.0
+    },
+    {
+      "id": "2026-12-05_Afternoon",
+      "date_str": "2026-12-05",
+      "session": "Afternoon",
+      "start_time": "14:00",
+      "end_time": "17:00",
+      "duration_hours": 3.0
+    }
+  ],
+  "faculty": {
+    "FAC01": {
+      "id": "FAC01",
+      "name": "Dr. Alan Turing",
+      "department": "Computer Science",
+      "email": "turing@university.edu"
+    },
+    "FAC02": {
+      "id": "FAC02",
+      "name": "Dr. Ada Lovelace",
+      "department": "Computer Science",
+      "email": "lovelace@university.edu"
+    },
+    "FAC03": {
+      "id": "FAC03",
+      "name": "Dr. John von Neumann",
+      "department": "Systems Engineering",
+      "email": "neumann@university.edu"
+    },
+    "FAC04": {
+      "id": "FAC04",
+      "name": "Dr. Grace Hopper",
+      "department": "Software Engineering",
+      "email": "hopper@university.edu"
+    },
+    "FAC05": {
+      "id": "FAC05",
+      "name": "Dr. Claude Shannon",
+      "department": "Information Theory",
+      "email": "shannon@university.edu"
+    },
+    "FAC06": {
+      "id": "FAC06",
+      "name": "Dr. Tim Berners-Lee",
+      "department": "Web Technologies",
+      "email": "lee@university.edu"
+    },
+    "FAC07": {
+      "id": "FAC07",
+      "name": "Dr. Geoffrey Hinton",
+      "department": "Artificial Intelligence",
+      "email": "hinton@university.edu"
+    },
+    "FAC08": {
+      "id": "FAC08",
+      "name": "Dr. Donald Knuth",
+      "department": "Algorithms & Computing",
+      "email": "knuth@university.edu"
+    }
+  },
+  "students": {
+    "S001": {
+      "id": "S001",
+      "name": "Student S001",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S002": {
+      "id": "S002",
+      "name": "Student S002",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S003": {
+      "id": "S003",
+      "name": "Student S003",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S004": {
+      "id": "S004",
+      "name": "Student S004",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S005": {
+      "id": "S005",
+      "name": "Student S005",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S006": {
+      "id": "S006",
+      "name": "Student S006",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S007": {
+      "id": "S007",
+      "name": "Student S007",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S008": {
+      "id": "S008",
+      "name": "Student S008",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S009": {
+      "id": "S009",
+      "name": "Student S009",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S010": {
+      "id": "S010",
+      "name": "Student S010",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS107"
+      ],
+      "department": "Computer Science"
+    },
+    "S011": {
+      "id": "S011",
+      "name": "Student S011",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111"
+      ],
+      "department": "Computer Science"
+    },
+    "S012": {
+      "id": "S012",
+      "name": "Student S012",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111"
+      ],
+      "department": "Computer Science"
+    },
+    "S013": {
+      "id": "S013",
+      "name": "Student S013",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111"
+      ],
+      "department": "Computer Science"
+    },
+    "S014": {
+      "id": "S014",
+      "name": "Student S014",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111"
+      ],
+      "department": "Computer Science"
+    },
+    "S015": {
+      "id": "S015",
+      "name": "Student S015",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111"
+      ],
+      "department": "Computer Science"
+    },
+    "S016": {
+      "id": "S016",
+      "name": "Student S016",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111"
+      ],
+      "department": "Computer Science"
+    },
+    "S017": {
+      "id": "S017",
+      "name": "Student S017",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111"
+      ],
+      "department": "Computer Science"
+    },
+    "S018": {
+      "id": "S018",
+      "name": "Student S018",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111"
+      ],
+      "department": "Computer Science"
+    },
+    "S019": {
+      "id": "S019",
+      "name": "Student S019",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111"
+      ],
+      "department": "Computer Science"
+    },
+    "S020": {
+      "id": "S020",
+      "name": "Student S020",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS106"
+      ],
+      "department": "Computer Science"
+    },
+    "S021": {
+      "id": "S021",
+      "name": "Student S021",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS106"
+      ],
+      "department": "Computer Science"
+    },
+    "S022": {
+      "id": "S022",
+      "name": "Student S022",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS106"
+      ],
+      "department": "Computer Science"
+    },
+    "S023": {
+      "id": "S023",
+      "name": "Student S023",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS106"
+      ],
+      "department": "Computer Science"
+    },
+    "S024": {
+      "id": "S024",
+      "name": "Student S024",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS106"
+      ],
+      "department": "Computer Science"
+    },
+    "S025": {
+      "id": "S025",
+      "name": "Student S025",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS106"
+      ],
+      "department": "Computer Science"
+    },
+    "S026": {
+      "id": "S026",
+      "name": "Student S026",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS106"
+      ],
+      "department": "Computer Science"
+    },
+    "S027": {
+      "id": "S027",
+      "name": "Student S027",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS106"
+      ],
+      "department": "Computer Science"
+    },
+    "S028": {
+      "id": "S028",
+      "name": "Student S028",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS103",
+        "CS105",
+        "CS111",
+        "CS106"
+      ],
+      "department": "Computer Science"
+    },
+    "S029": {
+      "id": "S029",
+      "name": "Student S029",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS106"
+      ],
+      "department": "AI & DS"
+    },
+    "S030": {
+      "id": "S030",
+      "name": "Student S030",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS106"
+      ],
+      "department": "AI & DS"
+    },
+    "S031": {
+      "id": "S031",
+      "name": "Student S031",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS106"
+      ],
+      "department": "AI & DS"
+    },
+    "S032": {
+      "id": "S032",
+      "name": "Student S032",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS106"
+      ],
+      "department": "AI & DS"
+    },
+    "S033": {
+      "id": "S033",
+      "name": "Student S033",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS106"
+      ],
+      "department": "AI & DS"
+    },
+    "S034": {
+      "id": "S034",
+      "name": "Student S034",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS106"
+      ],
+      "department": "AI & DS"
+    },
+    "S035": {
+      "id": "S035",
+      "name": "Student S035",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS106"
+      ],
+      "department": "AI & DS"
+    },
+    "S036": {
+      "id": "S036",
+      "name": "Student S036",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S037": {
+      "id": "S037",
+      "name": "Student S037",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S038": {
+      "id": "S038",
+      "name": "Student S038",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S039": {
+      "id": "S039",
+      "name": "Student S039",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S040": {
+      "id": "S040",
+      "name": "Student S040",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S041": {
+      "id": "S041",
+      "name": "Student S041",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S042": {
+      "id": "S042",
+      "name": "Student S042",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S043": {
+      "id": "S043",
+      "name": "Student S043",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S044": {
+      "id": "S044",
+      "name": "Student S044",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S045": {
+      "id": "S045",
+      "name": "Student S045",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S046": {
+      "id": "S046",
+      "name": "Student S046",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S047": {
+      "id": "S047",
+      "name": "Student S047",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S048": {
+      "id": "S048",
+      "name": "Student S048",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S049": {
+      "id": "S049",
+      "name": "Student S049",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109"
+      ],
+      "department": "AI & DS"
+    },
+    "S050": {
+      "id": "S050",
+      "name": "Student S050",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS108"
+      ],
+      "department": "AI & DS"
+    },
+    "S051": {
+      "id": "S051",
+      "name": "Student S051",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS108"
+      ],
+      "department": "AI & DS"
+    },
+    "S052": {
+      "id": "S052",
+      "name": "Student S052",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS108"
+      ],
+      "department": "AI & DS"
+    },
+    "S053": {
+      "id": "S053",
+      "name": "Student S053",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS108"
+      ],
+      "department": "AI & DS"
+    },
+    "S054": {
+      "id": "S054",
+      "name": "Student S054",
+      "enrolled_exam_ids": [
+        "CS101",
+        "CS102",
+        "CS104",
+        "CS108",
+        "CS109",
+        "CS108"
+      ],
+      "department": "AI & DS"
+    },
+    "S055": {
+      "id": "S055",
+      "name": "Student S055",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S056": {
+      "id": "S056",
+      "name": "Student S056",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S057": {
+      "id": "S057",
+      "name": "Student S057",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S058": {
+      "id": "S058",
+      "name": "Student S058",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S059": {
+      "id": "S059",
+      "name": "Student S059",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S060": {
+      "id": "S060",
+      "name": "Student S060",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S061": {
+      "id": "S061",
+      "name": "Student S061",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S062": {
+      "id": "S062",
+      "name": "Student S062",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S063": {
+      "id": "S063",
+      "name": "Student S063",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S064": {
+      "id": "S064",
+      "name": "Student S064",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S065": {
+      "id": "S065",
+      "name": "Student S065",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112",
+        "CS108"
+      ],
+      "department": "Cyber Security"
+    },
+    "S066": {
+      "id": "S066",
+      "name": "Student S066",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    },
+    "S067": {
+      "id": "S067",
+      "name": "Student S067",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    },
+    "S068": {
+      "id": "S068",
+      "name": "Student S068",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    },
+    "S069": {
+      "id": "S069",
+      "name": "Student S069",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    },
+    "S070": {
+      "id": "S070",
+      "name": "Student S070",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    },
+    "S071": {
+      "id": "S071",
+      "name": "Student S071",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    },
+    "S072": {
+      "id": "S072",
+      "name": "Student S072",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    },
+    "S073": {
+      "id": "S073",
+      "name": "Student S073",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    },
+    "S074": {
+      "id": "S074",
+      "name": "Student S074",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    },
+    "S075": {
+      "id": "S075",
+      "name": "Student S075",
+      "enrolled_exam_ids": [
+        "CS102",
+        "CS103",
+        "CS106",
+        "CS110",
+        "CS112"
+      ],
+      "department": "Cyber Security"
+    }
+  }
+}
